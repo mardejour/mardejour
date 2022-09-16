@@ -8,4 +8,3 @@
 - 📫 How to reach me: maryam.agalarova@gmail.com
 - 😄 Pronouns: you're either a male or a female
 - ⚡ Fun fact: I hate chocolate
--->
