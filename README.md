@@ -1,6 +1,5 @@
 ### <a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
    I'm Maryam. I'm a data analyst interested in mathematics, pedagogy, computer animations, open-source, software development, and beyond. 
-
 - 🔭 Here's what I'm currently focusing on:
 - Identifying business goals & structuring information to accommodate them
 - Reducing the pain of capturing & analyzing user research data by streamlining data delivery
