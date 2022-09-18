@@ -1,5 +1,5 @@
 ### <a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
-   I'm Maryam. I am passionate about building technology products that deliver positive impact. I'm a data analyst interested in mathematics, pedagogy, computer animations, open-source, software development, and beyond. Always to open to new opportunities to collaborate, send me a message! 
+   I'm Maryam. I am passionate about building technology products that deliver positive impact. I'm a data analyst interested in mathematics, pedagogy, computer animations, open-source, software development, and beyond. Always open to new opportunities to collaborate, send me a message! 
 - 🔭 Here's what I'm currently focusing on:
 - Identifying business goals & structuring information to accommodate them
 - Reducing the pain of capturing & analyzing user research data by streamlining data delivery
