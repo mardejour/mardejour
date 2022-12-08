@@ -1,4 +1,5 @@
 ### <a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
+
    I'm Maryam. I am passionate about building technology products that deliver positive impact. I've worked with marketing and product teams across the funnel to drive acquisition, activation and engagement, and retention.
    I'm interested in mathematics, pedagogy, computer animations, open-source, software development, and beyond. Always open to new opportunities to collaborate, send me a message! 
 - 🔭 Here's what I'm currently focusing on:
